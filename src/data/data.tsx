@@ -76,9 +76,7 @@ export const heroData: Hero = {
        I create sophisticated web applications that deliver exceptional user experiences with modern technologies and clean code.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
-        plucking my <strong className="text-stone-100">banjo</strong>, or exploring beautiful{' '}
-        <strong className="text-stone-100">Vancouver Island</strong>.
+       With over 5 years of experience in web development, I specialize in creating high-performance, responsive web applications using React, Next.js, and Node.js. My approach combines technical expertise with a strong focus on user experience and clean, maintainable code.
       </p>
     </>
   ),
